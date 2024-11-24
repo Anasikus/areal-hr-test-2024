@@ -53,3 +53,4 @@ app/build/
 app/public/static/*.map
 app/.quasar/
 app/.vite/
+files/
